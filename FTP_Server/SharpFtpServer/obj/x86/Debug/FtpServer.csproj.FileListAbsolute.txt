@@ -1,0 +1,13 @@
+C:\Users\Alberto Helguera\Documents\4to Año\FTP\FTP Server\SharpFtpServer\bin\Debug\SharpFtpServer.log4net
+C:\Users\Alberto Helguera\Documents\4to Año\FTP\FTP Server\SharpFtpServer\bin\Debug\SharpFtpServer.exe.config
+C:\Users\Alberto Helguera\Documents\4to Año\FTP\FTP Server\SharpFtpServer\bin\Debug\SharpFtpServer.exe
+C:\Users\Alberto Helguera\Documents\4to Año\FTP\FTP Server\SharpFtpServer\bin\Debug\SharpFtpServer.pdb
+C:\Users\Alberto Helguera\Documents\4to Año\FTP\FTP Server\SharpFtpServer\obj\x86\Debug\FtpServer.csprojResolveAssemblyReference.cache
+C:\Users\Alberto Helguera\Documents\4to Año\FTP\FTP Server\SharpFtpServer\obj\x86\Debug\SharpFtpServer.exe
+C:\Users\Alberto Helguera\Documents\4to Año\FTP\FTP Server\SharpFtpServer\obj\x86\Debug\SharpFtpServer.pdb
+C:\Users\Alberto Helguera\Documents\4to Año\FTP\FTP Server (manos metidas)\SharpFtpServer\bin\Debug\SharpFtpServer.log4net
+C:\Users\Alberto Helguera\Documents\4to Año\FTP\FTP Server (manos metidas)\SharpFtpServer\bin\Debug\SharpFtpServer.exe.config
+C:\Users\Alberto Helguera\Documents\4to Año\FTP\FTP Server (manos metidas)\SharpFtpServer\bin\Debug\SharpFtpServer.exe
+C:\Users\Alberto Helguera\Documents\4to Año\FTP\FTP Server (manos metidas)\SharpFtpServer\bin\Debug\SharpFtpServer.pdb
+C:\Users\Alberto Helguera\Documents\4to Año\FTP\FTP Server (manos metidas)\SharpFtpServer\obj\x86\Debug\SharpFtpServer.exe
+C:\Users\Alberto Helguera\Documents\4to Año\FTP\FTP Server (manos metidas)\SharpFtpServer\obj\x86\Debug\SharpFtpServer.pdb

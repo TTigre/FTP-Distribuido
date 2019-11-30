@@ -1,0 +1,32 @@
+System.Net Error: 0 : [6996] Excepción en AppDomain#4032828::UnhandledExceptionHandler - No se puede encontrar una parte de la ruta de acceso 'C:\Utils'..
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   en System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   en System.IO.Directory.EnumerateDirectories(String path)
+   en SharpFtpServer.ClientConnection.ListOperation(NetworkStream dataStream, String pathname) en C:\Users\Alberto Helguera\Documents\4to Año\FTP\sharpftpserver(trasteado)\SharpFtpServer\ClientConnection.cs:línea 1001
+   en SharpFtpServer.ClientConnection.DoDataConnectionOperation(IAsyncResult result) en C:\Users\Alberto Helguera\Documents\4to Año\FTP\sharpftpserver(trasteado)\SharpFtpServer\ClientConnection.cs:línea 927
+   en System.Net.LazyAsyncResult.Complete(IntPtr userToken)
+   en System.Net.ContextAwareResult.CompleteCallback(Object state)
+   en System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   en System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   en System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   en System.Net.ContextAwareResult.Complete(IntPtr userToken)
+   en System.Net.LazyAsyncResult.ProtectedInvokeCallback(Object result, IntPtr userToken)
+   en System.Net.Sockets.BaseOverlappedAsyncResult.CompletionPortCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* nativeOverlapped)
+   en System.Threading._IOCompletionCallback.PerformIOCompletionCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* pOVERLAP)
+System.Net Error: 0 : [8012] Excepción en AppDomain#4032828::UnhandledExceptionHandler - No se puede encontrar una parte de la ruta de acceso 'D:\Test'..
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   en System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   en System.IO.Directory.EnumerateDirectories(String path)
+   en SharpFtpServer.ClientConnection.ListOperation(NetworkStream dataStream, String pathname) en C:\Users\Alberto Helguera\Documents\4to Año\FTP\FTP Server (manos metidas)\SharpFtpServer\ClientConnection.cs:línea 1001
+   en SharpFtpServer.ClientConnection.DoDataConnectionOperation(IAsyncResult result) en C:\Users\Alberto Helguera\Documents\4to Año\FTP\FTP Server (manos metidas)\SharpFtpServer\ClientConnection.cs:línea 927
+   en System.Net.LazyAsyncResult.Complete(IntPtr userToken)
+   en System.Net.ContextAwareResult.CompleteCallback(Object state)
+   en System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   en System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   en System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   en System.Net.ContextAwareResult.Complete(IntPtr userToken)
+   en System.Net.LazyAsyncResult.ProtectedInvokeCallback(Object result, IntPtr userToken)
+   en System.Net.Sockets.BaseOverlappedAsyncResult.CompletionPortCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* nativeOverlapped)
+   en System.Threading._IOCompletionCallback.PerformIOCompletionCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* pOVERLAP)
